@@ -35,3 +35,9 @@ GNU Lesser General Public License for more details.
 
 You should have received a copy of the GNU Lesser General Public License
 along with this library. If not, see <http://www.gnu.org/licenses/>.
+
+
+
+download and install qt5.5 or qt5.6
+$ sudo apt install libbotan2-4-dev 
+$ sudo apt install qtbase5-dev
